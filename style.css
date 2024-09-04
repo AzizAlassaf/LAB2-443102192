@@ -1,0 +1,40 @@
+body{
+    background-color:darkgray;
+}
+#title {
+text-align: center;
+color:rgb(51, 52, 54)
+ 
+}
+#image{
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    border: 3px solid black;
+     box-shadow: 10px 10px 20px rgba(0, 0, 0,0.9)
+    
+}
+#main{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-indent: 10px;
+    text-align: center;
+}
+h3,h4,h5{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+p,li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+#conclusion{
+    text-indent: 10px;
+}
